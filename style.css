@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.css-1{
+    border: 5px solid rgb(91, 52, 164);
+    margin: 20px;
+    padding: 20px;
+    color:rgb(166, 45, 69);
+    background-color: antiquewhite;
+}
+
+.css-2{
+    border: 5px solid rgb(166, 45, 69);
+    margin: 20px;
+    padding: 20px;
+    color: aqua;
+    background-color: beige;
+}
+
+.css-3{
+    border: 5px solid rgb(166, 45, 156);
+    margin: 20px;
+    padding: 20px;
+    color: rgb(73, 45, 166);
+    background-color: rgb(163, 145, 180);
+
+}
